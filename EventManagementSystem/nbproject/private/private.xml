@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/AdminForm.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/EditUsersForm.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/EventManagementSystem.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/EmailDetails.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/AccountDB.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/Event.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/Customer.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/ServiceProvider.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/ProjectManagerDB.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/Account.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/SignUpForm.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/Global.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/Contact.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/EventDB.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/AdminDB.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/CustomerDB.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/ServiceProviderForm.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/ProjectManagerForm.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/ProjectManager.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/ContactDB.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/LoginForm.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/PMContactsC.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/Admin.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/ServiceProviderDB.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/CContactsPM.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/CustomerForm.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/BookEventForm.java</file>
+            <file>file:/G:/Java/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystemEslam/EventManagementSystem/src/eventmanagementsystem/AddUsersForm.java</file>
+        </group>
+    </open-files>
+</project-private>
